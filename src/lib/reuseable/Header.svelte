@@ -2,7 +2,7 @@
 </script>
 
 <header
-  class=" bg-secondary-500 flex h-[70px] px-7 sticky top-0 left-0 z-50 justify-between items-center"
+  class=" bg-[#061726] flex h-[70px] px-7 sticky top-0 left-0 z-50 justify-between items-center"
 >
   <div class="flex items-center gap-7">
     <img src="/icons/bugger.svg" loading="eager" alt="bugger icon" />

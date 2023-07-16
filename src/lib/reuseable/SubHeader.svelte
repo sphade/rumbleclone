@@ -1,5 +1,5 @@
 <div
-  class="h-[60px] sticky z-50 top-[70px] flex items-center bg-secondary-100 whitespace-nowrap gap-5 pl-[28px]"
+  class="h-[60px] sticky z-50 top-[70px] flex items-center bg-[#10212F] whitespace-nowrap gap-5 pl-[28px]"
 >
   {#each { length: 25 } as item}
     <a

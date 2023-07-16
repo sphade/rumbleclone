@@ -11,7 +11,7 @@
           <span class="text-[10px]">Home</span>
         </a>
         <a
-          href="/test"
+          href="/"
           class=" flex py-2.5 hover:bg-[#1F2E3C] gap-2 items-center flex-col"
         >
           <img src="/icons/latestIcon.svg" class="w-6 h-6" alt="latest icon" />

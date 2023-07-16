@@ -1,28 +1,26 @@
-
-
-<script >
-  export let title =''
-  export let thumbnail =''
-  export let rating =''
-  export let brand =''
+<script>
+  export let title = "this is the title";
+  export let thumbnail = "/images/cardImg.jpg";
+  export let rating = "100";
+  export let brand = "the coco";
 </script>
-<a href="/card" >
-  <div class="relative" >
 
+<a href="/card">
+  <div class="relative">
     <img
       src={thumbnail}
       class=" h-[230px] md:h-[168px] w-full object-cover rounded-lg"
       alt=""
     />
     <p
-      class="text-[11px] bg-secondary-100 font-bold absolute right-2  top-[200px] md:top-[140px] rounded-2xl px-[8px] py-[3px]"
+      class="text-[11px] bg-[#10212F] font-bold absolute right-2 top-[200px] md:top-[140px] rounded-2xl px-[8px] py-[3px]"
     >
       4:31
     </p>
   </div>
 
   <p class="text-[15px] font-semibold truncate">
-   {title}
+    {title}
   </p>
   <div class="flex gap-2 items-center mt-[5px]">
     <img

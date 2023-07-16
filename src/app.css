@@ -5,7 +5,7 @@
 @layer base {
   html,
   body {
-    @apply scroll-smooth font-normal text-primary bg-secondary-100 font-sans  ;
+    @apply scroll-smooth font-normal text-[#d6e0ea] bg-[#10212F] font-sans;
   }
 }
 /* html{
@@ -17,6 +17,6 @@
     @apply capitalize text-sm text-white rounded-[140px] font-semibold bg-transparent transition-colors py-[7px] px-[9.8px] sm:py-[11.9px] sm:px-[18px] hover:bg-[#1A2A37];
   }
   .btn__outlined {
-    @apply outline outline-2  outline-brand;
+    @apply outline outline-2  outline-[#85c742];
   }
 }

@@ -1,6 +1,5 @@
-<aside class="  flex-shrink-0 w-full mx-auto sm:w-[350px]  ">
-  <div class="w-full h-[280px] mb-[28px]" />
-  <div class="rounded-2xl bg-secondary-500 px-[16px] py-[11px]">
+<aside class="  flex-shrink-0 w-full mx-auto sm:w-[350px]">
+  <div class="rounded-2xl bg-[#061726] px-[16px] py-[11px]">
     {#each { length: 10 } as item}
       <a
         href="/ssss"

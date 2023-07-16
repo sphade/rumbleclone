@@ -1,4 +1,4 @@
-<div class="bg-secondary-500 flex items-center justify-between p-[10px]">
+<div class="bg-[#10212F] flex items-center justify-between p-[10px]">
   <div class="flex gap-2">
     <img
       src="/images/avatar.jpg"
@@ -17,7 +17,9 @@
       <p class="text-xs capitalize">15.2k followers</p>
     </div>
   </div>
-  <button class="bg-brand px-[28px] py-[8.2px] text-sm text-black rounded-3xl">
+  <button
+    class="bg-[#85c742] px-[28px] py-[8.2px] text-sm text-black rounded-3xl"
+  >
     <span class="capitalize font-semibold">follow</span> 15.2k
   </button>
 </div>
@@ -39,7 +41,7 @@
       <div
         class="relative h-[5px] flex-1 overflow-hidden rounded-2xl bg-[#495A6A]"
       >
-        <div class="bg-brand absolute top-0 h-full left-0 w-[80%]" />
+        <div class="bg-[#85c742] absolute top-0 h-full left-0 w-[80%]" />
       </div>
       <button
         class="py-[5px] whitespace-nowrap flex gap-1 px-[12px] bg-[#1f2e3c] text-xs rounded-2xl hover:bg-[#344453]"
